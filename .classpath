@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="libs/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.2.jar" sourcepath="C:/Users/hw/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar"/>
+	<classpathentry kind="lib" path="libs/iTextAsian.jar"/>
+	<classpathentry kind="lib" path="libs/barbecue-1.5-beta1.jar"/>
+	<classpathentry kind="lib" path="libs/itext-2.1.7.js5.jar"/>
+	<classpathentry kind="lib" path="libs/groovy-all-2.4.5.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-annotations-2.3.0.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-core-2.3.0.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-databind-2.3.0.jar"/>
+	<classpathentry kind="lib" path="libs/poi-3.10.1.jar"/>
+	<classpathentry kind="lib" path="libs/poi-ooxml-3.10.1.jar"/>
+	<classpathentry kind="lib" path="libs/poi-ooxml-schemas-3.10.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-beanutils-1.9.0.jar"/>
+	<classpathentry kind="lib" path="libs/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="libs/fastjson-1.2.12.jar"/>
+	<classpathentry kind="lib" path="libs/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-1.2.9.jar" sourcepath="C:/Users/hw/.m2/repository/log4j/log4j/1.2.9/log4j-1.2.9-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jasperreports-6.3.0.jar"/>
+	<classpathentry kind="lib" path="libs/htmlcomponent.jar"/>
+	<classpathentry kind="lib" path="libs/barcode4j.jar"/>
+	<classpathentry kind="lib" path="libs/core-3.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/batik-bridge-1.8.jar"/>
+	<classpathentry kind="lib" path="libs/batik-dom-1.8.jar"/>
+	<classpathentry kind="lib" path="libs/batik-svg-dom-1.8.jar"/>
+	<classpathentry kind="lib" path="libs/batik-gvt-1.8.jar"/>
+	<classpathentry kind="lib" path="libs/batik-anim-1.8.jar"/>
+	<classpathentry kind="lib" path="libs/batik-util-1.8.jar"/>
+	<classpathentry kind="lib" path="libs/batik-css-1.8.jar"/>
+	<classpathentry kind="lib" path="libs/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="libs/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="libs/batik-ext-1.8.jar"/>
+	<classpathentry kind="lib" path="libs/batik-xml-1.8.jar"/>
+	<classpathentry kind="lib" path="libs/batik-parser-1.8.jar"/>
+	<classpathentry kind="lib" path="libs/batik-script-1.8.jar"/>
+	<classpathentry kind="lib" path="libs/batik-awt-util-1.8.jar"/>
+	<classpathentry kind="lib" path="libs/xmlgraphics-commons-1.5svn.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
