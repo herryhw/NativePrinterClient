@@ -314,7 +314,10 @@ public class JKISNativePrinter {
 			JRPrintServiceExporter exporter = new JRPrintServiceExporter(); 
 //			
 //			printRequestAttributeSet.add(sizeName);
-//			printRequestAttributeSet.add(new Copies(1));
+			String copy = mapReq.get("copy");
+			if(null!=copy && !"".equals(copy)){
+				printRequestAttributeSet.add(new Copies(Integer.parseInt(copy)));
+			}
 			
 			exporter.setParameter(JRExporterParameter.JASPER_PRINT_LIST, jasperPrintArray);
 			exporter.setParameter(JRPrintServiceExporterParameter.PRINT_SERVICE, defaultService);
